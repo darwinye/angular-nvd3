@@ -28,7 +28,7 @@
   "dependencies": {
     "angular": "^1.x",
     "d3": "^3.3",
-    "nvd3": "^1.7.1"
+      "nvd3": "git+https://github.com/darwinye/nvd3.git"
   },
   "devDependencies": {
     "angular-mocks": "^1.x",
